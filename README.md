@@ -14,7 +14,7 @@ U vlasništvu fakulteta se nalazi razna oprema koje je raštrkana po raznim loka
 Programski proizvod će razlikovati je li korisnik zaposlenik CIP-a ili zaposlenik fakulteta. Zaposlenicima fakulteta će softver omogućiti pregled sve opremu u posjedu fakulteta, informacije o tome koja oprema je zauzeta a koja dostupna, omogućiti će rezerviranje željene opreme te pregled aktivnih i prošlih posudbi. Zaposlenicima CIP-a će softver također omogućiti pregled sve opreme te informacije o zauzeću opreme, te će uz to omogućiti unos nove opreme, kreiranje nove posudbe, pregled aktivnih i prošlih posudbi te kreiranje izvješća o opremi i statičkih izvješća o razlozima posuđivanja opreme.
 
 ## Zadatak
-U root repozitorija učitajte zadatak koji ste dobili i potom ovdje stavite link na njegovo otvaranje.
+[Zadatak](/zadatak.pdf)
 
 ## Resursi
 Github Markdown sintaksa dostupna je na [ovom linku](https://guides.github.com/features/mastering-markdown/) ali i na Moodleu u sekciji Zadaće.
